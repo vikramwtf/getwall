@@ -1,4 +1,4 @@
-# waldl
+# getwall
 
 Browser [wallhaven](https://wallhaven.cc/) using `sxiv`
 
